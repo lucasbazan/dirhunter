@@ -1,6 +1,6 @@
 # DirHunter
+![dirhunter](https://i.imgur.com/E2hqvEv.png)
 ### Website directories discovery with brute force technique
-![dirhunter](https://i.imgur.com/UJ6TIY9.png)
 #### Arguments:
 
   -h, --help = show the help message and exit
