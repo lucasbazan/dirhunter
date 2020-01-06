@@ -1,2 +1,2 @@
 # dirhunter
-Website directories discovery with brute force
+Website directories discovery with brute force technique
